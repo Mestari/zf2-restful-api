@@ -10,7 +10,6 @@ This is an example application showing how to create a RESTful JSON API using PH
 
 ## SQL for DB
 
-    ```
     CREATE TABLE IF NOT EXISTS users (
 	  id   INT(11)      NOT NULL AUTO_INCREMENT,
 	  name VARCHAR(100) NOT NULL,
@@ -39,4 +38,3 @@ This is an example application showing how to create a RESTful JSON API using PH
 	);
 
 	INSERT INTO users_to_groups (user_id, group_id) VALUES  (1, 1);
-    ```
