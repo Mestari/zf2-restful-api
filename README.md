@@ -8,7 +8,7 @@ This is an example application showing how to create a RESTful JSON API using PH
 * Web server [setup with virtual host to serve project folder](http://framework.zend.com/manual/2.2/en/user-guide/skeleton-application.html#virtual-host)
 * [Composer](http://getcomposer.org/)
 
-## SQL for DB
+## SQL for DB (TEST)
 
     CREATE TABLE IF NOT EXISTS users (
 	  id   INT(11)      NOT NULL AUTO_INCREMENT,
